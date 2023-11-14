@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1699962322 "/home/luca/UNI/anno_3/reti/laTex/appunti.tex" "appunti.pdf" "appunti" 1699962323 0
-  "/home/luca/UNI/anno_3/reti/laTex/appunti.tex" 1699962321 102584 97c22558940db39701d17d7e05e9ab16 ""
+["pdflatex"] 1699964090 "/home/luca/UNI/anno_3/reti/laTex/appunti.tex" "appunti.pdf" "appunti" 1699964091 0
+  "/home/luca/UNI/anno_3/reti/laTex/appunti.tex" 1699964089 103169 212f5d6f9933ce76259c552133bbff14 ""
   "/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1689853683 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1689853683 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm" 1689853683 1536 e07581a4bb3136ece9eeb4c3ffab8233 ""
@@ -183,10 +183,10 @@
   "3/schRou.png" 1699335373 38229 39907960490aa144de94b8ae3f6f4043 ""
   "3/sisInt.png" 1699335375 124322 e1c0dc2b15decda7f75b59acc9dcaa09 ""
   "3/vs.png" 1699335380 49605 e3d58b679783973ca6cc0414807c2109 ""
-  "appunti.aux" 1699962323 32226 d0153ab256f7190970875e4344beb373 "pdflatex"
-  "appunti.out" 1699962323 34815 fea6bcc0308ecdc8c91408964ca28710 "pdflatex"
-  "appunti.tex" 1699962321 102584 97c22558940db39701d17d7e05e9ab16 ""
-  "appunti.toc" 1699962323 20480 f1b4afd9d2dc3bd388272886e8b70644 "pdflatex"
+  "appunti.aux" 1699964091 32359 8be59537c96f089db1dfe76d9f4193d1 "pdflatex"
+  "appunti.out" 1699964091 34969 d51c0e6f23a40d2290553e840c0cedec "pdflatex"
+  "appunti.tex" 1699964089 103169 212f5d6f9933ce76259c552133bbff14 ""
+  "appunti.toc" 1699964091 20572 af47e001cf4a9214a73a052d11771b3c "pdflatex"
   (generated)
   "appunti.aux"
   "appunti.log"

@@ -1463,6 +1463,16 @@
                 I campi \textbf{Router Priority, Designated Router e Backup Designated Router} sono utilizzati per l'elezione di DR e BDR.
                 \\
                 \textbf{Netwok Mask} indica la maschera relativa all'interfaccia del router (l'indirizzo è nell'header IP)
+                \\
+                \textbf{Options} indica se si supportano funzionalità opzionali.
+            \subsection{Exchange protocol}
+                Una volta stabilite le adiacenze, i routeradiacenti devono sincronizzare i rispettivi LInkk State Database.
+                \\
+                La procedura di sincronizzazione è asimmetrica:
+                \begin{itemize}
+                    \item Si stabilisce chi è il master e chi lo salve 
+                    \item Il master invia una serie di pacchetti \textbf{Database Desription}(Ty)
+                \end{itemize}
 
     \chapter{Come fa un pacchetto ad arrivare a destinazione} {
         O è un messaggio in broadcast oppure ha l'indirizzo IP destinazione.
